@@ -1,0 +1,9 @@
+!#/bin/bash
+
+read  "ingrese su edad" edad
+
+if($edad< 18);hten
+echo "es mayor de edad"
+else
+    echo "es menor de edad"
+fi
